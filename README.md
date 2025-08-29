@@ -1,9 +1,9 @@
 <!-- Capa do livro (fundo transparente) -->
 <p align="center">
-  <img src="assets/python-fluente.jpg" alt="Capa do livro Python Fluente (fundo transparente)" width="220" />
+  <img src="assets/python-fluente.jpg" alt="Capa do livro Python Fluente (fundo transparente)" width="320" />
 </p>
 
-<h1 align="center">Grupo de Estudos — Python Fluente (2ª edição)</h1>
+<h1 align="center">Grupo de Estudos — Python Fluente</h1>
 
 <p align="center">
   Encontros semanais às <strong>terças, 19h–20h</strong> (America/Sao_Paulo) para estudar o livro capítulo a capítulo.
@@ -16,7 +16,7 @@ Ler e discutir o *Python Fluente* (2ª ed.) em ritmo constante, praticando Pytho
 
 ## 🗓️ Encontros
 - **Quando:** terças, **19h–20h**  
-- **Formato:** online (adicione aqui o link fixo)  
+- **Formato:** online (via Google Meet)  
 - **Ritmo sugerido:** 1 capítulo/semana  
 > Dica de pauta: Abertura (5 min) · Discussão (40–45 min) · Encerramento (10–15 min)
 
